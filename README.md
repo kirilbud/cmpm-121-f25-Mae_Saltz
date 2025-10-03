@@ -43,4 +43,6 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 1. Go to your repository's Settings → Pages
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
-4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
+4. Your site will be published at `https://<your-github-username>.github.io/cmpm-121-f25-Mae_Saltz/`
+
+I made the counter work. Not sure how to actually edit the text in an eliment so I guessed and it worked. Not sure if ther eis a better way.
